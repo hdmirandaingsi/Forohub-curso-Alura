@@ -84,4 +84,4 @@
 
 <p><strong>En resumen, este proyecto proporciona una base sólida para un sistema de foros seguro y escalable, implementando las mejores prácticas de seguridad y utilizando tecnologías modernas de desarrollo web.</strong></p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jUqsKfnCJKI" frameborder="0" allowfullscreen></iframe>
+<h5>VIDEO aqui : </h4>[https://www.youtube.com/embed/jUqsKfnCJKI" ](https://youtu.be/jUqsKfnCJKI)
